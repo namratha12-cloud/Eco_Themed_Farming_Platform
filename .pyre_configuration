@@ -1,0 +1,9 @@
+{
+    "source_directories": [
+        "."
+    ],
+    "search_path": [
+        "C:/Users/Namratha K N/AppData/Roaming/Python/Python313/site-packages",
+        "C:/Users/Namratha K N/OneDrive/Desktop/farming/Eco-Themed Farming Platform/venv/Lib/site-packages"
+    ]
+}
